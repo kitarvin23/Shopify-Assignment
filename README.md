@@ -52,8 +52,8 @@ This premium landing page showcases cutting-edge web development techniques and 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/kitarvin23/Shopify-Assignment
-   cd Shopify-Assignment
+   git clone https://github.com/kitarvin23/orthopaedic-pillow-landing
+   cd orthopaedic-pillow-landing
    ```
 
 2. **Start a local server**
@@ -403,9 +403,9 @@ gtag('event', 'product_view', {
 
 **🏆 Built with ❤️ for exceptional user experience and conversion optimization**
 
-[![GitHub stars](https://github.com/kitarvin23/Shopify-Assignment?style=social)](https://github.com/kitarvin23/Shopify-Assignment)
-[![GitHub forks](https://github.com/kitarvin23/Shopify-Assignment?style=social)](https://github.com/kitarvin23/Shopify-Assignment/fork)
+[![GitHub stars](https://github.com/kitarvin23/orthopaedic-pillow-landing?style=social)](https://github.com/kitarvin23/orthopaedic-pillow-landing)
+[![GitHub forks](https://github.com/kitarvin23/orthopaedic-pillow-landing?style=social)](https://github.com/kitarvin23/orthopaedic-pillow-landing/fork)
 
-[⭐ Star this repo](https://github.com/kitarvin23/Shopify-Assignment) • [🐛 Report Bug](https://github.com/kitarvin23/Shopify-Assignment/issues) • [✨ Request Feature](https://github.com/kitarvin23/Shopify-Assignment/issues) • [💬 Discussions](https://github.com/kitarvin23/Shopify-Assignment/discussions)
+[⭐ Star this repo](https://github.com/kitarvin23/orthopaedic-pillow-landing) • [🐛 Report Bug](https://github.com/kitarvin23/orthopaedic-pillow-landing/issues) • [✨ Request Feature](https://github.com/kitarvin23/orthopaedic-pillow-landing/issues) • [💬 Discussions](https://github.com/kitarvin23/orthopaedic-pillow-landing/discussions)
 
 </div>
