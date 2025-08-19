@@ -53,7 +53,7 @@ This premium landing page showcases cutting-edge web development techniques and 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/kitarvin23/Shopify-Assignment
-   cd orthopaedic-pillow-landing
+   cd Shopify-Assignment
    ```
 
 2. **Start a local server**
